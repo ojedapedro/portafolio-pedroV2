@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm --prefix Portafolio-pedroV2 install && npm --prefix Portafolio-pedroV2 run build",
+  "outputDirectory": "Portafolio-pedroV2/dist"
+}

@@ -1,4 +1,11 @@
 {
+  "name": "portfolio-pedro-v1-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix Portafolio-pedroV2 install && npm --prefix Portafolio-pedroV2 run build",
+    "dev": "npm --prefix Portafolio-pedroV2 run dev",
+    "preview": "npm --prefix Portafolio-pedroV2 run preview"
+  },
   "dependencies": {
     "gh-pages": "^6.3.0"
   }
